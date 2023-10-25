@@ -6,7 +6,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Default Session Driver
+    | Default Session Driver   okok
     |--------------------------------------------------------------------------
     |
     | This option controls the default session "driver" that will be used on
